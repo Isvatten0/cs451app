@@ -1,2 +1,0 @@
-mkdir -p ~/.streamlit/
-echo [servernheadless = true nport = nenableCORS = falsenIn > ~/.streamlit/config.tom1
